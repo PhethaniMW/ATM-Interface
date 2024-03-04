@@ -58,7 +58,7 @@ Installation
 
 1. Clone the Repository: Clone the repository to your local machine using Git:
    ```
-   git clone https://github.com/phethaniMW/ATM interface.git
+   git clone https://github.com/phethaniMW/ATM-interface.git
    ```
 2. Compile and Run: Open the project in your preferred Java IDE, compile the Java files, and run the `WiseATM` class to start the ATM application.
 
